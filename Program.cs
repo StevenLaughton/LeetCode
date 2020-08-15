@@ -8,7 +8,13 @@ namespace Leetcode
     {
         static void Main(string[] args)
         {
+            var res = Reverse(12);
+        }
 
+        public static int Reverse(int x)
+        {
+            var strung = x.ToString();
+            return 1;
         }
     }
 
