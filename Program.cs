@@ -1,14 +1,14 @@
-﻿using System;
-using System.Linq;
-
-namespace Leetcode
+﻿namespace Leetcode
 {
+    using System.Linq;
+
     public class Program
     {
         public static void Main()
         {
             var input = new string[] { "flower", "flow", "flight" };
-            var res = LongestCommonPrefix(input);
+
+            _ = LongestCommonPrefix(input);
         }
 
         public static string LongestCommonPrefix(string[] strs)
