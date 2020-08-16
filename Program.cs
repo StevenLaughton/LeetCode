@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace Leetcode
+﻿namespace Leetcode
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
 
         }
     }
-
 }
