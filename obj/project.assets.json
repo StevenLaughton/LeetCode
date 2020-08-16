@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/stevenlaughton/Documents/Leetcode/Leetcode.csproj",
+      "projectUniqueName": "/Users/stevenlaughton/Documents/GitHub/LeetCode/Leetcode.csproj",
       "projectName": "Leetcode",
-      "projectPath": "/Users/stevenlaughton/Documents/Leetcode/Leetcode.csproj",
+      "projectPath": "/Users/stevenlaughton/Documents/GitHub/LeetCode/Leetcode.csproj",
       "packagesPath": "/Users/stevenlaughton/.nuget/packages/",
-      "outputPath": "/Users/stevenlaughton/Documents/Leetcode/obj/",
+      "outputPath": "/Users/stevenlaughton/Documents/GitHub/LeetCode/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
