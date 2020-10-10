@@ -9,3 +9,15 @@
 /Users/stevenlaughton/Documents/Leetcode/bin/Debug/netcoreapp3.1/Leetcode.pdb
 /Users/stevenlaughton/Documents/Leetcode/obj/Debug/netcoreapp3.1/Leetcode.dll
 /Users/stevenlaughton/Documents/Leetcode/obj/Debug/netcoreapp3.1/Leetcode.pdb
+/Users/stevenlaughton/Documents/GitHub/LeetCode/bin/Debug/netcoreapp3.1/Leetcode.deps.json
+/Users/stevenlaughton/Documents/GitHub/LeetCode/bin/Debug/netcoreapp3.1/Leetcode.runtimeconfig.json
+/Users/stevenlaughton/Documents/GitHub/LeetCode/bin/Debug/netcoreapp3.1/Leetcode.runtimeconfig.dev.json
+/Users/stevenlaughton/Documents/GitHub/LeetCode/bin/Debug/netcoreapp3.1/Leetcode.dll
+/Users/stevenlaughton/Documents/GitHub/LeetCode/bin/Debug/netcoreapp3.1/Leetcode.pdb
+/Users/stevenlaughton/Documents/GitHub/LeetCode/obj/Debug/netcoreapp3.1/Leetcode.csprojAssemblyReference.cache
+/Users/stevenlaughton/Documents/GitHub/LeetCode/obj/Debug/netcoreapp3.1/Leetcode.AssemblyInfoInputs.cache
+/Users/stevenlaughton/Documents/GitHub/LeetCode/obj/Debug/netcoreapp3.1/Leetcode.AssemblyInfo.cs
+/Users/stevenlaughton/Documents/GitHub/LeetCode/obj/Debug/netcoreapp3.1/Leetcode.csproj.CoreCompileInputs.cache
+/Users/stevenlaughton/Documents/GitHub/LeetCode/obj/Debug/netcoreapp3.1/Leetcode.dll
+/Users/stevenlaughton/Documents/GitHub/LeetCode/obj/Debug/netcoreapp3.1/Leetcode.pdb
+/Users/stevenlaughton/Documents/GitHub/LeetCode/obj/Debug/netcoreapp3.1/Leetcode.genruntimeconfig.cache
